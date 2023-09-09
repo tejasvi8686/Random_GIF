@@ -1,6 +1,6 @@
 import React from "react"; // Removed unnecessary imports
 import Spinner from "./spinner";
-import useGif from "../hook/useGif"; // Corrected import
+import useGif from "../hook/usegif"; // Corrected import
 
 const Random = () => {
   const { gif, loading, fetchData } = useGif();

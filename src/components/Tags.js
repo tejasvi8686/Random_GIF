@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Spinner from "./spinner";
-import useGif from "../hook/useGif";
+import useGif from "../hook/usegif";
 
 
 const Tag = () => {
